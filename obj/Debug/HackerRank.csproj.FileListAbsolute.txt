@@ -1,0 +1,12 @@
+D:\OneDrive\Nicolas\source\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+D:\OneDrive\Nicolas\source\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+D:\OneDrive\Nicolas\source\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+D:\OneDrive\Nicolas\source\HackerRank\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
+D:\OneDrive\Nicolas\source\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+D:\OneDrive\Nicolas\source\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
+D:\newstack\HackerRank\bin\Debug\HackerRank.exe.config
+D:\newstack\HackerRank\obj\Debug\HackerRank.exe
+D:\newstack\HackerRank\obj\Debug\HackerRank.pdb
+D:\newstack\HackerRank\bin\Debug\HackerRank.exe
+D:\newstack\HackerRank\bin\Debug\HackerRank.pdb
+D:\newstack\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
